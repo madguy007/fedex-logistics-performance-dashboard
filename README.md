@@ -1,6 +1,6 @@
 # FedEx Logistics Performance Dashboard
 
-![Power BI Dashboard Preview](Dashboard_image.jpg)
+![Power BI Dashboard Preview](images/Dashboard_image.jpg)
 
 ## 📌 Project Overview
 This project analyzes logistics shipment performance data for FedEx to evaluate delivery reliability, delay patterns, and operational efficiency.  
