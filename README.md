@@ -78,7 +78,7 @@ A 15-minute walkthrough explaining the project flow, KPIs, and dashboard insight
 ---
 
 ## 📁 Repository Structure
-
+```
 data/ → Raw and cleaned datasets
 notebooks/ → Python EDA and data validation
 sql/ → Business logic and KPI definitions
@@ -86,6 +86,7 @@ dashboard/ → Power BI dashboard file
 images/ → Dashboard preview images
 report/ → Project documentation
 
+```
 
 ---
 
