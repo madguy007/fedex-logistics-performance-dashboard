@@ -94,6 +94,7 @@ report/ → Project documentation
 This project demonstrates an end-to-end, industry-aligned analytics workflow where:
 - Python is used for exploration and validation  
 - SQL defines business-truth KPIs  
-- Power BI delivers insights through clear, interactive storytelling  
+- Power BI delivers insights through clear, interactive storytelling.
 
 The dashboard supports both executive-level monitoring and operational decision-making.
+
